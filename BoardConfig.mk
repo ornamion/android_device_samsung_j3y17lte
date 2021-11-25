@@ -63,6 +63,7 @@ TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TW_DEFAULT_EXTERNAL_STORAGE := true
+TW_USE_TOOLBOX := true
 
 TARGET_SYSTEM_PROP := device/samsung/j3y17lte/system.prop
 
