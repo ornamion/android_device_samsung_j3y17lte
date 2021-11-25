@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_j3y17lte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_j3y17lte.mk
 
